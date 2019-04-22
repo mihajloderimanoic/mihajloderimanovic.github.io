@@ -549,15 +549,39 @@ textarea:focus {
 }
 
 .onClickTextOverImage-1 {
-	background-image:url("../project/treca.jpg");
+	background-image:url("../project/1.jpg");
 }
 
 .onClickTextOverImage-2 {
-	background-image:url("../project/cetvrta.jpg");
+	background-image:url("../project/2.jpg");
 }
 
 .onClickTextOverImage-3 {
-	background-image:url("../project/peta.jpg");
+	background-image:url("../project/3.jpg");
+}
+
+.onClickTextOverImage-4 {
+	background-image:url("../project/4.jpg");
+}
+
+.onClickTextOverImage-5 {
+	background-image:url("../project/5.jpg");
+}
+
+.onClickTextOverImage-6 {
+	background-image:url("../project/6.jpg");
+}
+
+.onClickTextOverImage-7 {
+	background-image:url("../project/7.jpg");
+}
+
+.onClickTextOverImage-8 {
+	background-image:url("../project/8.jpg");
+}
+
+.onClickTextOverImage-9 {
+	background-image:url("../project/9.jpg");
 }
 
 .onClickTextOverImage{
