@@ -596,6 +596,13 @@ textarea:focus {
   position:relative;
 }
 
+.onClickTextOverImage a{
+    color: purple;
+    background: white;
+    display: block;
+    margin-top: 1rem;
+}
+
 .onClickTextOverImage div{
   position:absolute;
   color:#fff;
