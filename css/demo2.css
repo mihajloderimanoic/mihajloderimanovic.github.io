@@ -585,8 +585,8 @@ textarea:focus {
 }
 
 .onClickTextOverImage{
-  width:150px;
-  height:150px;
+  width:180px;
+  height:180px;
   background-size:100% 100%;
   display:inline-block;
   border-radius:16px;
@@ -613,7 +613,7 @@ textarea:focus {
   left:0;
   background-color:rgba(0,0,0,0.5);
   border-radius:16px;
-  padding-top:35%;
+  padding-top:30%;
   text-align:center;
   opacity:0;
   visibility:hidden;
