@@ -410,19 +410,19 @@ textarea:focus {
 }
 
 .photoshop {
-	width: 80%;
+	width: 85%;
 	animation-name: photoshop;
 	animation-duration: 3s;
 }
 
 .illustrator {
-	width: 65%;
+	width: 75%;
 	animation-name: illustrator;
 	animation-duration: 3s;
 }
 
 .htmlcss {
-	width: 90%;
+	width: 95%;
 	animation-name: htmlcss;
 	animation-duration: 3s;
 }
@@ -453,6 +453,43 @@ textarea:focus {
 
 .seo {
 	width: 35%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+
+.sass {
+	width: 80%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+.bootstrap {
+	width: 85%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+.ajax {
+	width: 70%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+.woocommerce {
+	width: 80%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+.divibuilder {
+	width: 80%;
+	animation-name: seo;
+	animation-duration: 3s;
+}
+
+.elementorpagebuilder {
+	width: 80%;
 	animation-name: seo;
 	animation-duration: 3s;
 }
